@@ -7,7 +7,7 @@ description: "Milk + Honey is a music collective based out of Bellingham, WA."
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
-  links: '#219ab3'
+  links: '#fcbb11'
 
 # Footer settings
 footer: Milk + Honey
